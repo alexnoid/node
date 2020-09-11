@@ -38,6 +38,6 @@ window.onload=function(){
    document.getElementById("knop").onclick=function(){
 	   batareyka = new nuclear_trash();
 	   batareyka.kaboom(4);
-	   document.location.href = "/public/flappy.html";
+	   //document.location.href = "/public/flappy.html";
    }
 }
