@@ -1,1 +1,1 @@
-web: python mainbot.py runserver 0.0.0.0:5000
+web: python app.js runserver 0.0.0.0:5000
